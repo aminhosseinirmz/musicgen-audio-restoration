@@ -112,7 +112,7 @@ results/clap_results/
 results/spectral_results/
 results/figures/
 
-These include numerical evaluation tables, spectrogram comparisons, and audio samples for qualitative evaluation.
+These include numerical evaluation tables and spectrogram comparisons.
 
 ## Final Goal of the Project
 The main objective of this project is to identify which restoration method provides the best improvement over raw MusicGen audio and to determine whether combining models (e.g., AudioSR + Apollo) produces better results than individual models. The outcome of the project is a restoration pipeline based on experimental evaluation.
