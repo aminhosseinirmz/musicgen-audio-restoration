@@ -1,7 +1,6 @@
 # MusicGen Audio Restoration
 
 ## Project Overview
-## Project Overview
 This project evaluates and compares different audio restoration methods applied to MusicGen-generated audio. MusicGen outputs often contain noise, limited bandwidth, compression artifacts, etc. 
 
 The main goal of this project is not only to improve audio quality, but to systematically compare the effectiveness of different restoration approaches and determine which method or combination of methods produces the best overall results.
