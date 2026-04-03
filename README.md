@@ -58,7 +58,8 @@ musicgen-audio-restoration/
 ├── results/                   # Tables, figures
 │   ├── clap_results/
 │   ├── spectral_results/
-│   └── figures
+│   ├── mos_results/
+│   └── spectrogram_samples/
 │
 └── README.md
 ```
