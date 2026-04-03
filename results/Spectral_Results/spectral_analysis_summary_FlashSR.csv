@@ -1,2 +1,0 @@
-folder_name,num_files,sr,duration_sec,spectral_centroid_mean,spectral_centroid_std,spectral_bandwidth_mean,spectral_bandwidth_std,spectral_rolloff_mean,spectral_rolloff_std,spectral_flatness_mean,spectral_flatness_std,hf_energy_ratio_mean,hf_energy_ratio_std
-FlashSR_Output,30,32000.0,5.120000000000001,1728.3907863532536,875.9747720739182,1904.0163575805918,590.4660282941009,3394.1345404984427,1681.3289105409212,0.006959619000554085,0.02130245976150036,0.006033096928149462,0.02015354298055172
