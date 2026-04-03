@@ -108,9 +108,9 @@ evaluation/mos.ipynb
 
 ## Results
 Results are stored in:
-results/clap_results/
-results/spectral_results/
-results/figures/
+results/clap_results/..
+results/spectral_results/..
+results/figures/..
 ## Results
 
 We evaluated five audio restoration methods:
@@ -136,7 +136,7 @@ A – Raw MusicGen, B – DSP, C – FlashSR, D – AudioSR, E – AudioSR + Apo
 | AudioSR | **1968.23** | **2137.35** | **3906.56** | 0.0153 | **0.01545** |
 | AudioSR + Apollo | 1776.45 | 2013.41 | 3526.84 | 0.0078 | 0.01027 |
 
-### Mean Opinion Score (MOS)
+### Mean Opinion Score (MOS) evaluation was conducted with 5 listeners
 
 | Method | MOS |
 |-------|-----|
