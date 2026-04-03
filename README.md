@@ -107,13 +107,8 @@ evaluation/spectrogram.ipynb
 evaluation/mos.ipynb
 
 ## Results
-Results are stored in:
-results/clap_results/..
-results/spectral_results/..
-results/figures/..
-## Results
 
-We evaluated five audio restoration methods:
+I evaluated five audio restoration methods:
 A – Raw MusicGen, B – DSP, C – FlashSR, D – AudioSR, E – AudioSR + Apollo.
 
 ### CLAP Score (Higher is Better)
