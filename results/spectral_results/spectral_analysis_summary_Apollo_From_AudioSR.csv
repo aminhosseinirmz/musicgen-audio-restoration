@@ -1,0 +1,2 @@
+folder_name,num_files,sr,duration_sec,spectral_centroid_mean,spectral_centroid_std,spectral_bandwidth_mean,spectral_bandwidth_std,spectral_rolloff_mean,spectral_rolloff_std,spectral_flatness_mean,spectral_flatness_std,hf_energy_ratio_mean,hf_energy_ratio_std
+Apollo_Output_From_AudioSR_To_96k,30,32000.0,5.12109375,1776.4458800962057,865.1264964915008,2013.41190276703,703.6887012310689,3526.841575804777,1868.1769037904228,0.007808715105056763,0.011336113326251507,0.010272516869008541,0.02090785838663578
