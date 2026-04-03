@@ -27,15 +27,6 @@ I used the online demo version of AudioSR to generate outputs:
 AudioSR Demo:  
 https://huggingface.co/spaces/Nick088/Audio-SR
 
-The goal is to evaluate which method produces the best audio quality and whether combining models improves the results.
-
-## AudioSR Implementation Note
-During the project, we encountered dependency and version compatibility issues when trying to run the AudioSR model locally and on Google Colab (PyTorch, torchaudio, and CUDA version conflicts).
-
-Before sending audio to AudioSR, preprocessing steps were applied according to the recommendations in the original AudioSR paper (resampling and bandwidth preparation). These preprocessing steps are implemented in:
-preprocessing/audiosr_input.ipynb
-This notebook prepares MusicGen audio files in the correct format before they are processed by AudioSR.
-
 ## Repository Structure
 ```
 musicgen-audio-restoration/
