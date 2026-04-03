@@ -1,0 +1,31 @@
+method,file,base_id,prompt,duration_sec,clap_score
+audiosr,ambient_01.wav,ambient_01,a peaceful ambient soundscape with soft pads and atmosphere,5.120333333333333,0.17693769931793213
+audiosr,ambient_02.wav,ambient_02,a dark ambient atmosphere with deep drones and texture,5.120333333333333,0.017925139516592026
+audiosr,ambient_03.wav,ambient_03,an ethereal ambient track with shimmering textures,5.120333333333333,-0.0346369668841362
+audiosr,ambient_04.wav,ambient_04,a meditative ambient background with warm sustained sounds,5.120333333333333,0.19035696983337402
+audiosr,ambient_05.wav,ambient_05,a dreamy floating ambient composition with gentle motion,5.120333333333333,0.17195768654346466
+audiosr,drums_01.wav,drums_01,a tight acoustic drum groove with realistic kick and snare,5.120333333333333,0.19206766784191132
+audiosr,drums_02.wav,drums_02,a punchy rock drum beat with strong snare hits,5.120333333333333,0.5078682899475098
+audiosr,drums_03.wav,drums_03,a laid back jazz drum rhythm with brushes and swing feel,5.120333333333333,0.37624475359916687
+audiosr,drums_04.wav,drums_04,a fast electronic drum pattern with crisp percussion,5.120333333333333,0.19794988632202148
+audiosr,drums_05.wav,drums_05,a funky drum groove with syncopated rhythm and ghost notes,5.120333333333333,0.4299434423446655
+audiosr,electronic_01.wav,electronic_01,an upbeat electronic dance groove with synth bass and drums,5.120333333333333,0.4091932773590088
+audiosr,electronic_02.wav,electronic_02,a chill electronic track with soft synths and relaxed beat,5.120333333333333,0.45793020725250244
+audiosr,electronic_03.wav,electronic_03,a futuristic electronic piece with pulsing bass and synths,5.120333333333333,-0.04993003234267235
+audiosr,electronic_04.wav,electronic_04,a synthwave instrumental with retro 1980s electronic sounds,5.120333333333333,0.32325607538223267
+audiosr,electronic_05.wav,electronic_05,a minimal electronic beat with deep bass and simple melody,5.120333333333333,0.4343133866786957
+audiosr,guitar_01.wav,guitar_01,a warm acoustic guitar fingerpicking pattern with a natural sound,5.120333333333333,0.4242417812347412
+audiosr,guitar_02.wav,guitar_02,a soft classical guitar melody played with delicate touch,5.120333333333333,0.4438594579696655
+audiosr,guitar_03.wav,guitar_03,an energetic strummed acoustic guitar rhythm for a folk song,5.120333333333333,0.540719211101532
+audiosr,guitar_04.wav,guitar_04,a bluesy electric guitar riff with smooth phrasing,5.120333333333333,0.40984803438186646
+audiosr,guitar_05.wav,guitar_05,a dreamy clean electric guitar melody with light reverb,5.120333333333333,0.4814055263996124
+audiosr,orchestral_01.wav,orchestral_01,a cinematic orchestral theme with strings brass and percussion,5.120333333333333,0.22604981064796448
+audiosr,orchestral_02.wav,orchestral_02,a dramatic orchestral soundtrack cue with rising intensity,5.120333333333333,0.25194400548934937
+audiosr,orchestral_03.wav,orchestral_03,a soft orchestral piece led by strings and woodwinds,5.120333333333333,0.3819459080696106
+audiosr,orchestral_04.wav,orchestral_04,an epic trailer style orchestra with powerful drums and brass,5.120333333333333,0.010367946699261665
+audiosr,orchestral_05.wav,orchestral_05,a romantic orchestral melody with lush strings,5.120333333333333,0.45798277854919434
+audiosr,piano_01.wav,piano_01,a calm solo piano melody with soft emotional notes,5.120333333333333,0.24780477583408356
+audiosr,piano_02.wav,piano_02,a bright classical piano piece with flowing arpeggios,5.120333333333333,0.3281692564487457
+audiosr,piano_03.wav,piano_03,a melancholic piano composition with slow expressive playing,5.120333333333333,0.3237227201461792
+audiosr,piano_04.wav,piano_04,an intimate jazz piano improvisation in a cozy atmosphere,5.120333333333333,0.21013092994689941
+audiosr,piano_05.wav,piano_05,a cinematic grand piano theme with gentle dynamics,5.120333333333333,0.35268425941467285

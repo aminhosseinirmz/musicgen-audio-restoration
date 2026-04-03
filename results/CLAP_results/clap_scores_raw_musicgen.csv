@@ -1,0 +1,31 @@
+method,file,base_id,prompt,duration_sec,clap_score
+raw_musicgen,ambient_01.wav,ambient_01,a peaceful ambient soundscape with soft pads and atmosphere,5.06,0.244033545255661
+raw_musicgen,ambient_02.wav,ambient_02,a dark ambient atmosphere with deep drones and texture,5.06,0.0584712028503418
+raw_musicgen,ambient_03.wav,ambient_03,an ethereal ambient track with shimmering textures,5.06,0.07838080078363419
+raw_musicgen,ambient_04.wav,ambient_04,a meditative ambient background with warm sustained sounds,5.06,0.220058411359787
+raw_musicgen,ambient_05.wav,ambient_05,a dreamy floating ambient composition with gentle motion,5.06,0.12379942834377289
+raw_musicgen,drums_01.wav,drums_01,a tight acoustic drum groove with realistic kick and snare,5.06,0.21490411460399628
+raw_musicgen,drums_02.wav,drums_02,a punchy rock drum beat with strong snare hits,5.06,0.5166799426078796
+raw_musicgen,drums_03.wav,drums_03,a laid back jazz drum rhythm with brushes and swing feel,5.06,0.3562985062599182
+raw_musicgen,drums_04.wav,drums_04,a fast electronic drum pattern with crisp percussion,5.06,0.13698822259902954
+raw_musicgen,drums_05.wav,drums_05,a funky drum groove with syncopated rhythm and ghost notes,5.06,0.4345631003379822
+raw_musicgen,electronic_01.wav,electronic_01,an upbeat electronic dance groove with synth bass and drums,5.06,0.39779406785964966
+raw_musicgen,electronic_02.wav,electronic_02,a chill electronic track with soft synths and relaxed beat,5.06,0.4478035867214203
+raw_musicgen,electronic_03.wav,electronic_03,a futuristic electronic piece with pulsing bass and synths,5.06,0.1381455659866333
+raw_musicgen,electronic_04.wav,electronic_04,a synthwave instrumental with retro 1980s electronic sounds,5.06,0.306497186422348
+raw_musicgen,electronic_05.wav,electronic_05,a minimal electronic beat with deep bass and simple melody,5.06,0.3526490330696106
+raw_musicgen,guitar_01.wav,guitar_01,a warm acoustic guitar fingerpicking pattern with a natural sound,5.06,0.41298073530197144
+raw_musicgen,guitar_02.wav,guitar_02,a soft classical guitar melody played with delicate touch,5.06,0.4706399142742157
+raw_musicgen,guitar_03.wav,guitar_03,an energetic strummed acoustic guitar rhythm for a folk song,5.06,0.5152418613433838
+raw_musicgen,guitar_04.wav,guitar_04,a bluesy electric guitar riff with smooth phrasing,5.06,0.4375374913215637
+raw_musicgen,guitar_05.wav,guitar_05,a dreamy clean electric guitar melody with light reverb,5.06,0.44041746854782104
+raw_musicgen,orchestral_01.wav,orchestral_01,a cinematic orchestral theme with strings brass and percussion,5.06,0.15281254053115845
+raw_musicgen,orchestral_02.wav,orchestral_02,a dramatic orchestral soundtrack cue with rising intensity,5.06,0.1414511352777481
+raw_musicgen,orchestral_03.wav,orchestral_03,a soft orchestral piece led by strings and woodwinds,5.06,0.2726866602897644
+raw_musicgen,orchestral_04.wav,orchestral_04,an epic trailer style orchestra with powerful drums and brass,5.06,0.13301709294319153
+raw_musicgen,orchestral_05.wav,orchestral_05,a romantic orchestral melody with lush strings,5.06,0.4213144779205322
+raw_musicgen,piano_01.wav,piano_01,a calm solo piano melody with soft emotional notes,5.06,0.27766963839530945
+raw_musicgen,piano_02.wav,piano_02,a bright classical piano piece with flowing arpeggios,5.06,0.40852439403533936
+raw_musicgen,piano_03.wav,piano_03,a melancholic piano composition with slow expressive playing,5.06,0.35492926836013794
+raw_musicgen,piano_04.wav,piano_04,an intimate jazz piano improvisation in a cozy atmosphere,5.06,0.2394275814294815
+raw_musicgen,piano_05.wav,piano_05,a cinematic grand piano theme with gentle dynamics,5.06,0.4173976480960846

@@ -1,0 +1,31 @@
+method,file,base_id,prompt,duration_sec,clap_score
+dsp,ambient_01_DSP.wav,ambient_01,a peaceful ambient soundscape with soft pads and atmosphere,5.06,0.20407827198505402
+dsp,ambient_02_DSP.wav,ambient_02,a dark ambient atmosphere with deep drones and texture,5.06,0.08404803276062012
+dsp,ambient_03_DSP.wav,ambient_03,an ethereal ambient track with shimmering textures,5.06,0.05563480406999588
+dsp,ambient_04_DSP.wav,ambient_04,a meditative ambient background with warm sustained sounds,5.06,0.1998615562915802
+dsp,ambient_05_DSP.wav,ambient_05,a dreamy floating ambient composition with gentle motion,5.06,0.09998326748609543
+dsp,drums_01_DSP.wav,drums_01,a tight acoustic drum groove with realistic kick and snare,5.06,0.21074047684669495
+dsp,drums_02_DSP.wav,drums_02,a punchy rock drum beat with strong snare hits,5.06,0.5175605416297913
+dsp,drums_03_DSP.wav,drums_03,a laid back jazz drum rhythm with brushes and swing feel,5.06,0.3484726548194885
+dsp,drums_04_DSP.wav,drums_04,a fast electronic drum pattern with crisp percussion,5.06,0.17424620687961578
+dsp,drums_05_DSP.wav,drums_05,a funky drum groove with syncopated rhythm and ghost notes,5.06,0.4264376759529114
+dsp,electronic_01_DSP.wav,electronic_01,an upbeat electronic dance groove with synth bass and drums,5.06,0.4126867651939392
+dsp,electronic_02_DSP.wav,electronic_02,a chill electronic track with soft synths and relaxed beat,5.06,0.4134770631790161
+dsp,electronic_03_DSP.wav,electronic_03,a futuristic electronic piece with pulsing bass and synths,5.06,0.11817824095487595
+dsp,electronic_04_DSP.wav,electronic_04,a synthwave instrumental with retro 1980s electronic sounds,5.06,0.3024257719516754
+dsp,electronic_05_DSP.wav,electronic_05,a minimal electronic beat with deep bass and simple melody,5.06,0.3357227146625519
+dsp,guitar_01_DSP.wav,guitar_01,a warm acoustic guitar fingerpicking pattern with a natural sound,5.06,0.4510819911956787
+dsp,guitar_02_DSP.wav,guitar_02,a soft classical guitar melody played with delicate touch,5.06,0.4735170602798462
+dsp,guitar_03_DSP.wav,guitar_03,an energetic strummed acoustic guitar rhythm for a folk song,5.06,0.543925940990448
+dsp,guitar_04_DSP.wav,guitar_04,a bluesy electric guitar riff with smooth phrasing,5.06,0.4531647562980652
+dsp,guitar_05_DSP.wav,guitar_05,a dreamy clean electric guitar melody with light reverb,5.06,0.462191104888916
+dsp,orchestral_01_DSP.wav,orchestral_01,a cinematic orchestral theme with strings brass and percussion,5.06,0.21988314390182495
+dsp,orchestral_02_DSP.wav,orchestral_02,a dramatic orchestral soundtrack cue with rising intensity,5.06,0.19771930575370789
+dsp,orchestral_03_DSP.wav,orchestral_03,a soft orchestral piece led by strings and woodwinds,5.06,0.28474298119544983
+dsp,orchestral_04_DSP.wav,orchestral_04,an epic trailer style orchestra with powerful drums and brass,5.06,0.17105412483215332
+dsp,orchestral_05_DSP.wav,orchestral_05,a romantic orchestral melody with lush strings,5.06,0.40818941593170166
+dsp,piano_01_DSP.wav,piano_01,a calm solo piano melody with soft emotional notes,5.06,0.2337711900472641
+dsp,piano_02_DSP.wav,piano_02,a bright classical piano piece with flowing arpeggios,5.06,0.37768250703811646
+dsp,piano_03_DSP.wav,piano_03,a melancholic piano composition with slow expressive playing,5.06,0.35187041759490967
+dsp,piano_04_DSP.wav,piano_04,an intimate jazz piano improvisation in a cozy atmosphere,5.06,0.20961010456085205
+dsp,piano_05_DSP.wav,piano_05,a cinematic grand piano theme with gentle dynamics,5.06,0.35573118925094604

@@ -1,0 +1,31 @@
+method,file,base_id,prompt,duration_sec,clap_score
+flashsr,ambient_01.wav,ambient_01,a peaceful ambient soundscape with soft pads and atmosphere,5.12,0.1880560666322708
+flashsr,ambient_02.wav,ambient_02,a dark ambient atmosphere with deep drones and texture,5.12,0.03268033266067505
+flashsr,ambient_03.wav,ambient_03,an ethereal ambient track with shimmering textures,5.12,0.027945689857006073
+flashsr,ambient_04.wav,ambient_04,a meditative ambient background with warm sustained sounds,5.12,0.28305771946907043
+flashsr,ambient_05.wav,ambient_05,a dreamy floating ambient composition with gentle motion,5.12,0.10132396221160889
+flashsr,drums_01.wav,drums_01,a tight acoustic drum groove with realistic kick and snare,5.12,0.20092932879924774
+flashsr,drums_02.wav,drums_02,a punchy rock drum beat with strong snare hits,5.12,0.5133547782897949
+flashsr,drums_03.wav,drums_03,a laid back jazz drum rhythm with brushes and swing feel,5.12,0.3652456998825073
+flashsr,drums_04.wav,drums_04,a fast electronic drum pattern with crisp percussion,5.12,0.17865358293056488
+flashsr,drums_05.wav,drums_05,a funky drum groove with syncopated rhythm and ghost notes,5.12,0.44698840379714966
+flashsr,electronic_01.wav,electronic_01,an upbeat electronic dance groove with synth bass and drums,5.12,0.38740190863609314
+flashsr,electronic_02.wav,electronic_02,a chill electronic track with soft synths and relaxed beat,5.12,0.4631717801094055
+flashsr,electronic_03.wav,electronic_03,a futuristic electronic piece with pulsing bass and synths,5.12,0.08664409816265106
+flashsr,electronic_04.wav,electronic_04,a synthwave instrumental with retro 1980s electronic sounds,5.12,0.30692896246910095
+flashsr,electronic_05.wav,electronic_05,a minimal electronic beat with deep bass and simple melody,5.12,0.35887378454208374
+flashsr,guitar_01.wav,guitar_01,a warm acoustic guitar fingerpicking pattern with a natural sound,5.12,0.38782528042793274
+flashsr,guitar_02.wav,guitar_02,a soft classical guitar melody played with delicate touch,5.12,0.4496895670890808
+flashsr,guitar_03.wav,guitar_03,an energetic strummed acoustic guitar rhythm for a folk song,5.12,0.49723559617996216
+flashsr,guitar_04.wav,guitar_04,a bluesy electric guitar riff with smooth phrasing,5.12,0.4007607400417328
+flashsr,guitar_05.wav,guitar_05,a dreamy clean electric guitar melody with light reverb,5.12,0.43510133028030396
+flashsr,orchestral_01.wav,orchestral_01,a cinematic orchestral theme with strings brass and percussion,5.12,0.25414854288101196
+flashsr,orchestral_02.wav,orchestral_02,a dramatic orchestral soundtrack cue with rising intensity,5.12,0.2606937885284424
+flashsr,orchestral_03.wav,orchestral_03,a soft orchestral piece led by strings and woodwinds,5.12,0.327770471572876
+flashsr,orchestral_04.wav,orchestral_04,an epic trailer style orchestra with powerful drums and brass,5.12,0.2243058681488037
+flashsr,orchestral_05.wav,orchestral_05,a romantic orchestral melody with lush strings,5.12,0.47743546962738037
+flashsr,piano_01.wav,piano_01,a calm solo piano melody with soft emotional notes,5.12,0.3054654598236084
+flashsr,piano_02.wav,piano_02,a bright classical piano piece with flowing arpeggios,5.12,0.18983979523181915
+flashsr,piano_03.wav,piano_03,a melancholic piano composition with slow expressive playing,5.12,0.2867603898048401
+flashsr,piano_04.wav,piano_04,an intimate jazz piano improvisation in a cozy atmosphere,5.12,0.20116057991981506
+flashsr,piano_05.wav,piano_05,a cinematic grand piano theme with gentle dynamics,5.12,0.27343881130218506
