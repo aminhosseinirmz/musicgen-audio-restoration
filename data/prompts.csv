@@ -1,0 +1,31 @@
+category,prompt_id,prompt_text
+piano,1,a calm solo piano melody with soft emotional notes
+piano,2,a bright classical piano piece with flowing arpeggios
+piano,3,a melancholic piano composition with slow expressive phrasing
+piano,4,an intimate jazz piano improvisation in a cozy lounge
+piano,5,a cinematic grand piano theme with gentle dynamics
+guitar,1,a warm acoustic guitar fingerpicking pattern with a relaxed mood
+guitar,2,a soft classical guitar melody played with delicate expression
+guitar,3,an energetic strummed acoustic guitar rhythm for an upbeat song
+guitar,4,a bluesy electric guitar riff with smooth phrasing
+guitar,5,a dreamy clean electric guitar melody with light reverb
+drums,1,a tight acoustic drum groove with realistic kick snare and hi hats
+drums,2,a punchy rock drum beat with strong snare hits
+drums,3,a laid back jazz drum rhythm with brushes and subtle cymbals
+drums,4,a fast electronic drum pattern with crisp percussion
+drums,5,a funky drum groove with syncopated rhythm and dynamic fills
+ambient,1,a peaceful ambient soundscape with soft pads and airy textures
+ambient,2,a dark ambient atmosphere with deep drones and slow evolution
+ambient,3,an ethereal ambient track with shimmering textures and space
+ambient,4,a meditative ambient background with warm sustained tones
+ambient,5,a dreamy floating ambient composition with gentle motion
+electronic,1,an upbeat electronic dance groove with synth bass and clean drums
+electronic,2,a chill electronic track with soft synths and mellow rhythm
+electronic,3,a futuristic electronic piece with pulsing bass and layered textures
+electronic,4,a synthwave instrumental with retro 1980s electronic vibes
+electronic,5,a minimal electronic beat with deep bass and spacious effects
+orchestral,1,a cinematic orchestral theme with strings brass and percussion
+orchestral,2,a dramatic orchestral soundtrack cue with rising tension
+orchestral,3,a soft orchestral piece led by strings and woodwinds
+orchestral,4,an epic trailer style orchestra with powerful drums and brass
+orchestral,5,a romantic orchestral melody with lush strings and gentle piano
