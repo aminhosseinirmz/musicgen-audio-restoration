@@ -1,0 +1,2 @@
+folder_name,num_files,sr,duration_sec,spectral_centroid_mean,spectral_centroid_std,spectral_bandwidth_mean,spectral_bandwidth_std,spectral_rolloff_mean,spectral_rolloff_std,spectral_flatness_mean,spectral_flatness_std,hf_energy_ratio_mean,hf_energy_ratio_std
+AudioSR_Output,30,32000.0,5.120343749999998,1968.232315503781,1007.683152377552,2137.35437787331,694.6552758408109,3906.5631490134997,2036.0807261838834,0.015292281284928322,0.04809220880270004,0.015453856438398361,0.04072330892086029
