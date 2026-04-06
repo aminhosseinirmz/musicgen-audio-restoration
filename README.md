@@ -63,6 +63,9 @@ musicgen-audio-restoration/
 │
 └── README.md
 ```
+## Pipeline
+
+![Audio Restoration Pipeline](results/final_pipeline.png)
 
 ## Evaluation Methods
 I evaluate audio quality using multiple objective and subjective metrics:
