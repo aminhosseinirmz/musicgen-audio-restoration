@@ -115,7 +115,7 @@ evaluation/mos.ipynb
 I evaluated five audio restoration methods:
 A – Raw MusicGen, B – DSP, C – FlashSR, D – AudioSR, E – AudioSR + Apollo.
 
-### CLAP Score (Higher is Better)
+### CLAP Score 
 
 | Method | CLAP Mean | CLAP Std |
 |-------|-----------|----------|
