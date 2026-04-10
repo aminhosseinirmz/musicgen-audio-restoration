@@ -154,7 +154,7 @@ The main objective of this project is to identify which restoration method provi
 
 ## Author
 Seyedamin Hosseini
-hosseini.2047991@studenti.uniroma1.it
+aminhosseini.rmz3@gmail.com
 Sapienza University of Rome
 Master’s Degree in Computer Science
 Course: Deep Learning and Applied AI
