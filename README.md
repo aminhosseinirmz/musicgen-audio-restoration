@@ -65,9 +65,7 @@ musicgen-audio-restoration/
 ```
 ## Pipeline
 
-<p align="center">
-  <img src="results/pipeline.png" alt="Audio Restoration Pipeline" width="500"/>
-</p>
+![MusicGen restoration pipeline comparing raw audio, DSP, FlashSR, AudioSR, and AudioSR followed by Apollo, which earned the highest mean listener score of 2.93.](results/pipeline.svg)
 
 ## Evaluation Methods
 I evaluate audio quality using multiple objective and subjective metrics:
