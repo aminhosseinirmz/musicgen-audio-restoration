@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="612" viewBox="0 0 1200 612" role="img" aria-labelledby="title description">
+<title id="title">MusicGen audio restoration pipeline</title>
+<desc id="description">Thirty clips were generated from five prompts in each of six categories. The original audio and a DSP baseline go directly to evaluation. FlashSR and AudioSR each take audio resampled to 48 kHz and low-pass filtered at 8 kHz. The AudioSR output is evaluated directly and also used as the input for a second stage. Before Apollo, it is prepared as 44.1 kHz mono, peak-normalized, encoded as a 96 kbps MP3 and decoded to WAV. The five mean listener scores are 1.81 for raw audio, 2.07 for DSP, 2.34 for FlashSR, 2.66 for AudioSR, and 2.93 for AudioSR followed by Apollo. Evaluation also uses spectrograms, spectral measurements and CLAP audio–text similarity. Five listeners rated versions of 12 clips.</desc>
+<defs>
+  <marker id="arrow-shared" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="12" viewBox="0 0 10 12" refX="9" refY="6" orient="auto"><path d="M0 0 L10 6 L0 12 L2.4 6 Z" fill="#60748e"/></marker>
+  <marker id="arrow-raw" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="12" viewBox="0 0 10 12" refX="9" refY="6" orient="auto"><path d="M0 0 L10 6 L0 12 L2.4 6 Z" fill="#386da5"/></marker>
+  <marker id="arrow-dsp" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="12" viewBox="0 0 10 12" refX="9" refY="6" orient="auto"><path d="M0 0 L10 6 L0 12 L2.4 6 Z" fill="#986313"/></marker>
+  <marker id="arrow-flashsr" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="12" viewBox="0 0 10 12" refX="9" refY="6" orient="auto"><path d="M0 0 L10 6 L0 12 L2.4 6 Z" fill="#7651a8"/></marker>
+  <marker id="arrow-audiosr" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="12" viewBox="0 0 10 12" refX="9" refY="6" orient="auto"><path d="M0 0 L10 6 L0 12 L2.4 6 Z" fill="#a6406b"/></marker>
+  <marker id="arrow-cascade" markerUnits="userSpaceOnUse" markerWidth="10" markerHeight="12" viewBox="0 0 10 12" refX="9" refY="6" orient="auto"><path d="M0 0 L10 6 L0 12 L2.4 6 Z" fill="#08725a"/></marker>
+  </defs>
+<g font-family="Inter, Arial, Liberation Sans, sans-serif">
+<rect x="0.75" y="0.75" width="1198.5" height="610.5" rx="16" fill="#fcfdff" stroke="#ccd6e1" stroke-width="1.5"/>
+<text x="36" y="61" font-size="43" font-weight="700" text-anchor="start" letter-spacing="-1.15" fill="#182741">MusicGen restoration pipeline</text>
+<text x="1164" y="57" font-size="19" font-weight="400" text-anchor="end" letter-spacing="0" fill="#4d5d73">Five evaluated outputs</text>
+<path d="M36 78 L1164 78" fill="none" stroke="#d1dbe6" stroke-width="1.3"/>
+<g id="connections" aria-hidden="true">
+<path d="M418 150 L463 150" fill="none" stroke="#60748e" stroke-width="2.4" marker-end="url(#arrow-shared)"/>
+<path d="M117.0 197 L117.0 237" fill="none" stroke="#386da5" stroke-width="2.4" marker-end="url(#arrow-raw)"/>
+<path d="M319.0 197 L319.0 237" fill="none" stroke="#986313" stroke-width="2.4" marker-end="url(#arrow-dsp)"/>
+<path d="M558.0 197 L558.0 237" fill="none" stroke="#7651a8" stroke-width="2.4" marker-end="url(#arrow-flashsr)"/>
+<path d="M767.0 197 L767.0 237" fill="none" stroke="#a6406b" stroke-width="2.4" marker-end="url(#arrow-audiosr)"/>
+<path d="M860 305 L912 305" fill="none" stroke="#08725a" stroke-width="2.4" marker-end="url(#arrow-cascade)"/>
+<path d="M117.0 417 L117.0 453" fill="none" stroke="#386da5" stroke-width="2.4" marker-end="url(#arrow-raw)"/>
+<path d="M319.0 417 L319.0 453" fill="none" stroke="#986313" stroke-width="2.4" marker-end="url(#arrow-dsp)"/>
+<path d="M558.0 417 L558.0 453" fill="none" stroke="#7651a8" stroke-width="2.4" marker-end="url(#arrow-flashsr)"/>
+<path d="M767.0 417 L767.0 453" fill="none" stroke="#a6406b" stroke-width="2.4" marker-end="url(#arrow-audiosr)"/>
+<path d="M1039.5 417 L1039.5 453" fill="none" stroke="#08725a" stroke-width="2.4" marker-end="url(#arrow-cascade)"/>
+</g>
+<g id="musicgen-input">
+<rect x="36" y="103" width="382" height="94" rx="11" fill="#263659" stroke="none" stroke-width="1.5"/>
+<text x="56" y="142" font-size="29" font-weight="700" text-anchor="start" letter-spacing="-0.45" fill="#ffffff">MusicGen output</text>
+<text x="56" y="174" font-size="19" font-weight="400" text-anchor="start" letter-spacing="0" fill="#e8f0ff">30 clips · 6 categories × 5 prompts</text>
+</g>
+<g id="super-resolution-inputs">
+<rect x="466" y="103" width="698" height="94" rx="11" fill="#eaf0f9" stroke="#a3b6cd" stroke-width="1.5"/>
+<text x="486" y="141" font-size="26" font-weight="700" text-anchor="start" letter-spacing="-0.45" fill="#253b58">Super-resolution inputs</text>
+<text x="486" y="173" font-size="18.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#465b74">FlashSR and AudioSR</text>
+<path d="M795 122 L795 178" fill="none" stroke="#b7c7da" stroke-width="1.3"/>
+<path d="M967 122 L967 178" fill="none" stroke="#b7c7da" stroke-width="1.3"/>
+<text x="815" y="141" font-size="27" font-weight="700" text-anchor="start" letter-spacing="-0.45" fill="#253b58">48 kHz</text>
+<text x="815" y="172" font-size="18" font-weight="400" text-anchor="start" letter-spacing="0" fill="#465b74">Sampling rate</text>
+<text x="991" y="141" font-size="27" font-weight="700" text-anchor="start" letter-spacing="-0.45" fill="#253b58">8 kHz</text>
+<text x="991" y="172" font-size="18" font-weight="400" text-anchor="start" letter-spacing="0" fill="#465b74">Low-pass cutoff</text>
+</g>
+<g id="raw">
+<rect x="36" y="240" width="162" height="177" rx="10" fill="#e4efff" stroke="#79a3d3" stroke-width="1.5"/>
+<text x="51" y="276" font-size="25" font-weight="700" text-anchor="start" letter-spacing="-0.55" fill="#174e83">Raw audio</text>
+<text x="51" y="305" font-size="17.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#284967">Unprocessed</text>
+<text x="51" y="327" font-size="17.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#284967">MusicGen clip</text>
+<path d="M51 365 L183 365" fill="none" stroke="#aac5e2" stroke-width="1.3"/>
+<text x="51" y="397" font-size="17.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#284967">MOS</text>
+<text x="183" y="398" font-size="26" font-weight="700" text-anchor="end" letter-spacing="-0.4" fill="#174e83">1.81</text>
+</g>
+<g id="dsp">
+<rect x="220" y="240" width="198" height="177" rx="10" fill="#fff0c8" stroke="#c8993a" stroke-width="1.5"/>
+<text x="235" y="276" font-size="25" font-weight="700" text-anchor="start" letter-spacing="-0.55" fill="#754707">DSP baseline</text>
+<text x="235" y="305" font-size="17.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#60491f">Remove DC offset</text>
+<text x="235" y="327" font-size="17.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#60491f">25 Hz high-pass</text>
+<text x="235" y="349" font-size="17.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#60491f">Normalize peaks</text>
+<path d="M235 365 L403 365" fill="none" stroke="#ddbf7c" stroke-width="1.3"/>
+<text x="235" y="397" font-size="17.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#60491f">MOS</text>
+<text x="403" y="398" font-size="26" font-weight="700" text-anchor="end" letter-spacing="-0.4" fill="#754707">2.07</text>
+</g>
+<g id="flashsr">
+<rect x="466" y="240" width="184" height="177" rx="10" fill="#ece5ff" stroke="#9b83cf" stroke-width="1.5"/>
+<text x="481" y="276" font-size="25" font-weight="700" text-anchor="start" letter-spacing="-0.55" fill="#53368e">FlashSR</text>
+<text x="481" y="305" font-size="17.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#4d4063">One-step</text>
+<text x="481" y="327" font-size="17.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#4d4063">super-resolution</text>
+<path d="M481 365 L635 365" fill="none" stroke="#c6b6e4" stroke-width="1.3"/>
+<text x="481" y="397" font-size="17.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#4d4063">MOS</text>
+<text x="635" y="398" font-size="26" font-weight="700" text-anchor="end" letter-spacing="-0.4" fill="#53368e">2.34</text>
+</g>
+<g id="audiosr">
+<rect x="674" y="240" width="186" height="177" rx="10" fill="#fce3ed" stroke="#d289a4" stroke-width="1.5"/>
+<text x="689" y="276" font-size="25" font-weight="700" text-anchor="start" letter-spacing="-0.55" fill="#8a3258">AudioSR</text>
+<text x="689" y="305" font-size="17.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#63404f">Diffusion-based</text>
+<text x="689" y="327" font-size="17.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#63404f">super-resolution</text>
+<path d="M689 365 L845 365" fill="none" stroke="#e1afc3" stroke-width="1.3"/>
+<text x="689" y="397" font-size="17.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#63404f">MOS</text>
+<text x="845" y="398" font-size="26" font-weight="700" text-anchor="end" letter-spacing="-0.4" fill="#8a3258">2.66</text>
+</g>
+<g id="cascade">
+<rect x="915" y="240" width="249" height="177" rx="10" fill="#096955" stroke="#06503f" stroke-width="2.3"/>
+<text x="930" y="276" font-size="25" font-weight="700" text-anchor="start" letter-spacing="-0.55" fill="#ffffff">AudioSR + Apollo</text>
+<text x="930" y="305" font-size="17.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#e4faef">44.1 kHz mono</text>
+<text x="930" y="327" font-size="17.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#e4faef">Normalize peaks</text>
+<text x="930" y="349" font-size="17.5" font-weight="400" text-anchor="start" letter-spacing="0" fill="#e4faef">96 kbps MP3 → WAV</text>
+<path d="M930 365 L1149 365" fill="none" stroke="#6caf9b" stroke-width="1.3"/>
+<text x="930" y="397" font-size="17.5" font-weight="600" text-anchor="start" letter-spacing="0" fill="#ffffff">Highest MOS</text>
+<text x="1149" y="398" font-size="26" font-weight="700" text-anchor="end" letter-spacing="-0.4" fill="#ffffff">2.93</text>
+</g>
+<g id="evaluation">
+<rect x="36" y="456" width="1128" height="132" rx="11" fill="#f0f3f7" stroke="#b5c3d1" stroke-width="1.5"/>
+<text x="56" y="492" font-size="26" font-weight="700" text-anchor="start" letter-spacing="-0.45" fill="#23364e">Evaluation</text>
+<path d="M444 508 L444 570" fill="none" stroke="#c3cedb" stroke-width="1.3"/>
+<path d="M812 508 L812 570" fill="none" stroke="#c3cedb" stroke-width="1.3"/>
+<text x="56" y="525" font-size="21" font-weight="700" text-anchor="start" letter-spacing="-0.2" fill="#23364e">Spectral analysis</text>
+<text x="56" y="549" font-size="18" font-weight="400" text-anchor="start" letter-spacing="0" fill="#465971">Spectrograms, centroid, bandwidth, roll-off,</text>
+<text x="56" y="571" font-size="18" font-weight="400" text-anchor="start" letter-spacing="0" fill="#465971">flatness, and energy above 8 kHz</text>
+<text x="467" y="525" font-size="21" font-weight="700" text-anchor="start" letter-spacing="-0.2" fill="#23364e">Prompt alignment</text>
+<text x="467" y="549" font-size="18" font-weight="400" text-anchor="start" letter-spacing="0" fill="#465971">CLAP similarity between each clip</text>
+<text x="467" y="571" font-size="18" font-weight="400" text-anchor="start" letter-spacing="0" fill="#465971">and its original text prompt</text>
+<text x="835" y="525" font-size="21" font-weight="700" text-anchor="start" letter-spacing="-0.2" fill="#23364e">Listening quality</text>
+<text x="835" y="549" font-size="18" font-weight="400" text-anchor="start" letter-spacing="0" fill="#465971">Mean opinion score (MOS)</text>
+<text x="835" y="571" font-size="18" font-weight="400" text-anchor="start" letter-spacing="0" fill="#465971">5 listeners rated 12 clips</text>
+</g>
+</g>
+</svg>
